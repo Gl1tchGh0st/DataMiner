@@ -2,10 +2,16 @@
 
 A collection of modules and functions for malware (primarily spyware)
 
+# Features
+
+```
+Screenshots
+Photo Access
+```
+
 # Roadmap
 
 ```
-Screenshot capturing
 Screen recording
 Keylogging
 Clipboard monitoring
