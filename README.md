@@ -9,6 +9,7 @@ Shutdown
 Screenshots
 Webcam Photos
 Clipboard Monitoring
+File system
 ```
 
 # Roadmap
@@ -22,7 +23,6 @@ Microphone access
 GPS tracking
 Device fingerprinting
 Browser history
-File system
 Installed programs
 Open network connections
 System processes
