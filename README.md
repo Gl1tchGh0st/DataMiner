@@ -1,6 +1,6 @@
 # DataMiner
 
-A collection of modules and functions for malware (primarily spyware)
+A collection of modules and functions for malware (primarily spyware). The main fous for these functions are windows, however some work on any system while other can be easily modified for them.
 
 # Features
 
