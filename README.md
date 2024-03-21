@@ -1,4 +1,4 @@
-# DataMiner
+# MalwareModules
 
 A collection of modules and functions for malware (primarily spyware)
 
