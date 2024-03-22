@@ -5,8 +5,11 @@ A collection of modules and functions for malware (primarily spyware)
 # Features
 
 ```
+Shutdown
 Screenshots
 Photo Access
+File system
+Clipboard monitoring
 ```
 
 # Roadmap
@@ -14,14 +17,12 @@ Photo Access
 ```
 Screen recording
 Keylogging
-Clipboard monitoring
 Credential stealing
 Webcam access
 Microphone access
 GPS tracking
 Device fingerprinting
 Browser history
-File system
 Installed programs
 Open network connections
 System processes
