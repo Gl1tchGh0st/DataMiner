@@ -1,6 +1,6 @@
 # MalwareModules
 
-A collection of modules and functions for malware (primarily spyware)
+A collection of modules and functions for malware development. 
 
 # Features
 
@@ -37,3 +37,7 @@ Browser autofill
 Browser password manager
 Email client
 ```
+
+# Contributions
+
+Contributions are welcome, including in any languages. 
