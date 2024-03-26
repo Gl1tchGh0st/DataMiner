@@ -15,8 +15,6 @@ Clipboard monitoring
 # Roadmap
 
 ```
-Screen recording
-Webcam access
 Microphone access
 GPS tracking
 ```
