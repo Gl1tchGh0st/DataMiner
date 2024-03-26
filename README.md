@@ -12,13 +12,6 @@ File system
 Clipboard monitoring
 ```
 
-# Roadmap
-
-```
-Microphone access
-GPS tracking
-```
-
 # Contributions
 
 Contributions are welcome, including in any languages. 
